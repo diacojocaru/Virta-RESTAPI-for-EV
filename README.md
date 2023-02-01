@@ -7,16 +7,7 @@
 * PHP Unit tested;
 
 # Docker Images and Containers
--Web 
--Mysql
--Redis
--Mailhog
--Swagger
-
-# Environment variables
-The environment variables used for deploying the application are set in the `.env.example` file.
-The variables set have default values and they don't need to be changed.
-Still you can override the file to a new `.env` file and set your own variables.
+-Web, Mysql, Redis, Mailhog, Swagger
 
 # Running the project
 Some requirements before running the application:
